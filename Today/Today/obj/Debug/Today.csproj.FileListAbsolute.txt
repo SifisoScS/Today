@@ -1,0 +1,14 @@
+C:\Users\sifisos\Source\Repos\SifisoScS\Today\Today\bin\Debug\Today.exe.config
+C:\Users\sifisos\Source\Repos\SifisoScS\Today\Today\bin\Debug\Today.exe.manifest
+C:\Users\sifisos\Source\Repos\SifisoScS\Today\Today\bin\Debug\Today.application
+C:\Users\sifisos\Source\Repos\SifisoScS\Today\Today\bin\Debug\Today.exe
+C:\Users\sifisos\Source\Repos\SifisoScS\Today\Today\bin\Debug\Today.pdb
+C:\Users\sifisos\Source\Repos\SifisoScS\Today\Today\obj\Debug\Today.csprojAssemblyReference.cache
+C:\Users\sifisos\Source\Repos\SifisoScS\Today\Today\obj\Debug\Today.Form1.resources
+C:\Users\sifisos\Source\Repos\SifisoScS\Today\Today\obj\Debug\Today.Properties.Resources.resources
+C:\Users\sifisos\Source\Repos\SifisoScS\Today\Today\obj\Debug\Today.csproj.GenerateResource.cache
+C:\Users\sifisos\Source\Repos\SifisoScS\Today\Today\obj\Debug\Today.csproj.CoreCompileInputs.cache
+C:\Users\sifisos\Source\Repos\SifisoScS\Today\Today\obj\Debug\Today.exe.manifest
+C:\Users\sifisos\Source\Repos\SifisoScS\Today\Today\obj\Debug\Today.application
+C:\Users\sifisos\Source\Repos\SifisoScS\Today\Today\obj\Debug\Today.exe
+C:\Users\sifisos\Source\Repos\SifisoScS\Today\Today\obj\Debug\Today.pdb
